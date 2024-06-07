@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on mechanic
-- 🌱 I’m currently learning programation
-- 🤔 I’m looking for help with program
-- 📫 How to reach me: 17 988334129
+## - 🔭 I’m currently working on mechanic
+## - 🌱 I’m currently learning programation
+## - 🤔 I’m looking for help with program
+## - 📫 How to reach me: 17 988334129
 -->
